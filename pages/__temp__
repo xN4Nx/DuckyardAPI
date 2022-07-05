@@ -1,0 +1,7 @@
+<h3 style={{marginTop: '25px'}}>Need help? Help us improve and get support.</h3>
+<span>Feel free to contact us via Discord. Join our community and help us grow:</span>
+<div className={'flex vertical-center horizontal-center ' + styles.serverInfoContainer}>
+  <button className={"btn gray rounded-corner shadow hover-effect " + styles.serverName}>Management Land</button>
+  <button className={"btn green rounded-corner shadow hover-effect " + styles.serverOnlineMembers}>9 Online</button>
+  <button className='btn blue rounded-corner shadow hover-effect'>Join Community</button>
+</div>

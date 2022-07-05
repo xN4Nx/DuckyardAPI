@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Proxima Nova';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://dl.dropboxusercontent.com/s/0tb4pm26vdszk8n/300.otf?dl=0) format('opentype');
+}
+@font-face {
+  font-family: 'Proxima Nova';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://dl.dropboxusercontent.com/s/3yjki3wzl8mmwlx/400.otf?dl=0) format('opentype');
+}
+@font-face {
+  font-family: 'Proxima Nova';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://dl.dropboxusercontent.com/s/y4ivoazwqc1iv5p/500.otf?dl=0) format('opentype');
+}
+@font-face {
+  font-family: 'Proxima Nova';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://dl.dropboxusercontent.com/s/96ri9xk037dyc2c/600.otf?dl=0) format('opentype');
+}
